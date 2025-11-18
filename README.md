@@ -20,9 +20,9 @@ The Crypto Exchange Behavioral Model is a sophisticated analytics tool designed 
    ```bash
    pip install -r requirements.txt
    ```
-3. **Run the application**:
+3. **Run the notebook**:
    ```bash
-   python app.py
+   crypto-exchange-behavioral-model.ipynb
    ```
 
 ## Usage Instructions
