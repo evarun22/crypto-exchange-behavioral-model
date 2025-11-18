@@ -30,9 +30,6 @@ The Crypto Exchange Behavioral Model is a sophisticated analytics tool designed 
 - Load your trading data and utilize the provided analysis tools.
 - Feel free to explore different features and visualize data in real time.
 
-## Contribution Guidelines
-Contributions are welcome! Please checkout the project's [Contributing.md](CONTRIBUTING.md) for details on the process for submitting pull requests.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
