@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Common dependencies for a Python project
+
+pandas
+numpy
+requests
+
+# Placeholder for additional dependencies based on project needs
+# e.g., flask, sqlalchemy, tensorflow, etc.
